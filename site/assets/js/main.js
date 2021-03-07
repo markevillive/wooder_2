@@ -46,6 +46,8 @@ $(function (){
 
 });
 
-
+jQuery(function(){
+    jQuery("#[playerID]").YTPlayer();
+});
 
 
